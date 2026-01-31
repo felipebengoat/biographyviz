@@ -2,6 +2,8 @@
 
 A web-based tool for visualizing and analyzing biographical data through interactive timelines, network graphs, geographic maps, and statistical dashboards.
 
+Creators: Lise Ferenga, Christina Maliariti, Felipe Bengoa
+
 ## Overview
 
 BiographyViz transforms biographical archives—letters, photographs, travel logs—into queryable, visual networks. Designed for digital humanities researchers, archivists, and historians, the tool enables pattern discovery and relational analysis at scale while maintaining researcher control over data interpretation.
