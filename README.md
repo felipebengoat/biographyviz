@@ -2,7 +2,7 @@
 
 A web-based tool for visualizing and analyzing biographical data through interactive timelines, network graphs, geographic maps, and statistical dashboards.
 
-Creators: Lise Ferenga, Christina Maliariti, Felipe Bengoa
+Creators: Lise Feringa, Christina Maliariti, Felipe Bengoa
 
 ## Overview
 
